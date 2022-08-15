@@ -1,0 +1,21 @@
+{
+    "name": "gh-ci-complement",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Cafe137/gh-ci-complement.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Cafe137/gh-ci-complement/issues"
+    },
+    "homepage": "https://github.com/Cafe137/gh-ci-complement#readme",
+    "dependencies": {
+        "cafe-utility": "^4.2.0"
+    }
+}
